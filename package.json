@@ -1,0 +1,18 @@
+{
+    "name": "ristretto-url",
+    "description": "Lightweight url shortener",
+    "version": "0.1.0",
+    "author": "Sylvain Boucher",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "mongodb": "*",
+        "mongoose": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "expect.js": "*",
+        "superagent": "*"
+    }
+}
